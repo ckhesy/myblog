@@ -1,0 +1,16 @@
+*.log
+*.log.*
+*-lock.*
+
+node_modules
+
+.idea
+.vscode
+
+# dist
+dist/*
+!dist/.ares
+
+# Mac System File
+.DS_Store
+web.config
